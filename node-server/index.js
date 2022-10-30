@@ -1,5 +1,5 @@
-const express = require('express')
-const port = 3002
+const express = require('express');
+const port = 3002;
 const cors = require('cors');
 
 
@@ -13,7 +13,7 @@ const post1 = {
 const post2 = {
   id: 2,
   title: "Sheesh 2",
-  body: "A whole secopnd post",
+  body: "A whole second post",
   comments: ["Low engagement gang"],
 }
 
